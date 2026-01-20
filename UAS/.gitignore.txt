@@ -1,0 +1,6 @@
+# Abaikan semua
+*
+
+# Tapi jangan abaikan UAS_PABW
+!UAS_PABW/
+!UAS_PABW/**/*
